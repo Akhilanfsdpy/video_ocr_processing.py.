@@ -20,5 +20,5 @@ pip install opencv-python-headless easyocr psutil torch
 
 
 # Open the notebook in Google Colab
-https://colab.research.google.com/github/Akhilanfsdpy/video_ocr_processing.ipynb/blob/main/video_ocr_processing.ipynb
+https://colab.research.google.com/github/Akhilanfsdpy/video_ocr_processing.py./blob/main/video_ocr_processing.ipynb
 
