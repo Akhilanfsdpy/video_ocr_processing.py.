@@ -17,3 +17,8 @@ This script processes a video to perform Optical Character Recognition (OCR) on 
 Use the following command to install required dependencies:
 ```bash
 pip install opencv-python-headless easyocr psutil torch
+
+
+# Open the notebook in Google Colab
+https://colab.research.google.com/github/Akhilanfsdpy/video_ocr_processing.ipynb/blob/main/video_ocr_processing.ipynb
+
